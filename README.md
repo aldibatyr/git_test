@@ -1,1 +1,1 @@
-This is aldiatyr's first git project!
+This is aldibatyr's first git project!
