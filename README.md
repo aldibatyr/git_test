@@ -1,0 +1,1 @@
+This is aldiatyr's first git project!
